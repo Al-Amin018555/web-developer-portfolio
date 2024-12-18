@@ -24,7 +24,13 @@ body {
     color: #181818;
     text-align: center;
 }
+.section-description{
+    font-weight: 400;
+    font-size: 18px;
+    color: #757575;
+    text-align: center;
 
+}
 /* nav related styles */
 nav {
     display: flex;
@@ -110,13 +116,7 @@ main{
     margin: 130px 0;
 
 }
-.section-description{
-    font-weight: 400;
-    font-size: 18px;
-    color: #757575;
-    text-align: center;
 
-}
 .about-info-container{
     display: flex;
     justify-content: space-around;
@@ -134,4 +134,9 @@ main{
     color: #474747;
     margin-top: 5px;
 
+}
+
+/* what i do related styles */
+#what-i-do-description{
+    padding: 30px 150px;
 }
