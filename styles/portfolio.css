@@ -234,13 +234,22 @@ footer {
 .footer-column {
     width: 50%;
 }
-.footer-section-description{
+
+.footer-section-title {
+
+    font-weight: 700;
+    font-size: 35px;
+    color: #181818;
+}
+
+.footer-section-description {
     color: #474747;
     font-weight: 400;
     font-size: 16px;
 
 }
-.social-links a{
+
+.social-links a {
     margin-right: 25px;
 }
 
