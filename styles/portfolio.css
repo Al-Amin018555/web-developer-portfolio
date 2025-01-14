@@ -276,12 +276,19 @@ textarea {
 @media screen and (max-width: 576px) {
 
     .skills-container,
-    .resume-container {
+    .resume-container,
+    footer {
         flex-direction: column;
     }
 
     #what-i-do-description {
         padding: 20px;
+    }
+    footer{
+        padding: 10px;
+    }
+    .footer-column{
+        width: 80%;
     }
 
 }
